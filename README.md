@@ -1,6 +1,6 @@
 # DA-Search-Engine
 
-~~ ~~
+
 # Overiew
 
 Compatible Database
@@ -12,26 +12,26 @@ Compatible Database
 2. Furthermore, through prompt engineering, it enables optimized output tailored to the each individual, facilitating not only for researchers and experts but also more wide range of people.
 3. The goal is to utilize multimodal AI (text, images, audio, etc.) for database retrieval and output visualization, allowing AI that has learned multimodal cognition to act as a hub between users and database. This enables multimedia search and output, creating a knowledge base that can process complex multimedia informations.
 
-~~ ~~
+
 # Features
 Coming soon
 
-~~ ~~
+
 # Getting Started
 
-~~ ~~
+
 ## Prerequisites
 Coming soon
 
-~~ ~~
+
 ## Installation
 Coming soon
 
-~~ ~~
+
 ## Configuration
 Coming soon
 
-~~ ~~
+
 ## To-Do List
 ### Tasks
 Core Functionality
@@ -43,6 +43,6 @@ Core Functionality
 - [ ] Expand supported database.
 - [ ] Development of front end.
 
-~~ ~~
+
 ## Contact
 For any questions, feel free to reach out to me at [semi12292003@icloud.com].
