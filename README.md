@@ -14,22 +14,22 @@ Compatible Database
 
 
 # Features
-Coming soon
+Coming soon!!!
 
 
 # Getting Started
 
 
 ## Prerequisites
-Coming soon
+Coming soon!!!
 
 
 ## Installation
-Coming soon
+Coming soon!!!
 
 
 ## Configuration
-Coming soon
+Coming soon!!!
 
 
 ## To-Do List
