@@ -35,9 +35,9 @@ Coming soon
 ## To-Do List
 ### Tasks
 Core Functionality
-- [ ] 対応可能なデータベースの拡大
-- [ ] フロントエンド機能の開発
-- [ ] 
+- [ ] Make it work!!!!
+- [ ] Expand supported database.
+- [ ] Development of front end.
 
 ~~ ~~
 ## Contact
