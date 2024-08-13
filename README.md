@@ -4,8 +4,8 @@
 # Overiew
 
 Compatible Database
-- [] Japan Search (Under testing)
-- [] NDL  (Under testing)
+- [ ] Japan Search (Under testing)
+- [ ] NDL  (Under testing)
 
 # Purpose of this Project
 1. Utilize external interfaces (APIs) from multiple databases to retrieve metadata in response to user queries to the LLM, and then use RAG (Retrieval-Augmented Generation) to output the results of the database queries in natural language.
@@ -35,7 +35,11 @@ Coming soon
 ## To-Do List
 ### Tasks
 Core Functionality
-- [ ] Make it work!!!!
+- [ ] Task 1
+  - [ ] Query generation to SQL database.
+  - [ ] Retrieve RDF format information.
+  - [ ] Embedding to vector database.
+  - [ ] Generate responce.
 - [ ] Expand supported database.
 - [ ] Development of front end.
 
