@@ -36,7 +36,7 @@ Coming soon!!!
 ### Tasks
 Core Functionality
 - [ ] Task 1
-  - [ ] Query generation to SQL database.
+  - [ ] Query generation to SQL database through API.
   - [ ] Retrieve RDF format information.
   - [ ] Embedding to vector database.
   - [ ] Generate responce.
